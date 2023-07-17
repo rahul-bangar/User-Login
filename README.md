@@ -18,12 +18,11 @@ Form Validation: Both the registration and login forms implement robust client-s
 Security Measures: The application incorporates security best practices, such as input validation and using prepared statements, to prevent common web vulnerabilities, like SQL injection and cross-site scripting (XSS).
 
 Tech Stack:
-
 Frontend: HTML, CSS, JavaScript
 Backend: PHP
 Database: SQL Server (or any SQL-based database)
-Challenges:
 
+Challenges:
 Implementing secure password hashing and salting to ensure password confidentiality.
 Managing user sessions and authentication to prevent unauthorized access to sensitive areas of the website.
 Designing an efficient and normalized database schema to store user information securely.
